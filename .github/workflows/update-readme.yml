@@ -1,0 +1,23 @@
+name: Update README stats and snake animation every 10 minutes
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # هر 10 دقیقه یکبار اجرا میشه
+  workflow_dispatch:          # امکان اجرا دستی هم داره
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Commit empty change to trigger stats update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "chore: refresh README stats and snake animation"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
