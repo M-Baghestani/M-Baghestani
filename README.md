@@ -6,6 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Baghestani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=M-Baghestani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Baghestani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -34,9 +35,6 @@
 <div align="left">
   <a href="https://instagram.com/mh_b2080" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=Efd0ff&logoColor=black&labelColor=&style=flat" height="32" alt="instagram logo"  />
-  </a>
-  <a href="mailto:mh.baghestani@khu.ac.ir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=Efd0ff&logoColor=black&labelColor=&style=flat" height="32" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-baghestani-4287a4365/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=Efd0ff&logoColor=black&labelColor=&style=flat" height="32" alt="linkedin logo"  />
