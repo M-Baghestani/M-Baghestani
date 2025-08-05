@@ -35,7 +35,7 @@
   <a href="https://instagram.com/mh_b2080" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=Efd0ff&logoColor=black&labelColor=&style=flat" height="32" alt="instagram logo"  />
   </a>
-  <a href="mh.baghestani@khu.ac.ir" target="_blank">
+  <a href="mailto:mh.baghestani@khu.ac.ir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=Efd0ff&logoColor=black&labelColor=&style=flat" height="32" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-baghestani-4287a4365/" target="_blank">
