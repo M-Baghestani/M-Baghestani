@@ -15,7 +15,7 @@
 
 ###
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" height="55" alt="javascript logo"  />
+  <img src="https://camo.githubusercontent.com/eae95e54cb83296ca11f1cd9cfb22388330505c9a7c3c857a1b8d070d1f6f7f2/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f67697068792e676966" height="55" alt="javascript logo"  />
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="55" alt="java logo"  />
   <img width="34" />
