@@ -14,9 +14,8 @@
 <img align="right" height="150" src="https://camo.githubusercontent.com/afb942ef83a13e4496edb231d70a0634dfe43d6019e491f5a1a36c7edae44d8e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966"  />
 
 ###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo"  />
+  <img src="https://camo.githubusercontent.com/eae95e54cb83296ca11f1cd9cfb22388330505c9a7c3c857a1b8d070d1f6f7f2/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f67697068792e676966" height="55" alt="javascript logo"  />
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="55" alt="java logo"  />
   <img width="34" />
