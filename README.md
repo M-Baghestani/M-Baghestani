@@ -2,6 +2,12 @@
 
 <h2 align="center">Hi 👋😎! My name is Mohammad Hossein.</h2>
 
+<p align="center">
+  <a href="https://github.com/M-Baghestani">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Problem+Solver" alt="Typing Effect" />
+  </a>
+</p>
+
 ###
 
 <div align="center">
@@ -44,6 +50,10 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://komarev.com/ghvc/?username=M-Baghestani&label=PROFILE+VIEWS&color=007ecc&style=flat-square" alt="Profile Views" />
+  
+  <br /><br />
+  
   <img src="https://raw.githubusercontent.com/M-Baghestani/M-Baghestani/output/snake.svg" alt="Snake animation" />
 </div>
 
