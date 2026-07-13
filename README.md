@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/M-Baghestani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Problem+Solver" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Problem+Solver" alt="Typing Effect" />
   </a>
 </p>
 
