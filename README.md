@@ -50,7 +50,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://komarev.com/ghvc/?username=M-Baghestani&label=PROFILE+VIEWS&color=007ecc&style=flat-square" alt="Profile Views" />
+  <img src="https://hit.yhype.me/github/profile?user_id=M-Baghestani" alt="Profile Views" />
   
   <br /><br />
   
