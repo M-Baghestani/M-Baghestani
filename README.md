@@ -1,20 +1,16 @@
-<br clear="both">
-
-<h2 align="center">Hi 👋😎! My name is Mohammad Hossein.</h2>
-
-<p align="center">
-  <a href="https://github.com/M-Baghestani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Problem+Solver" alt="Typing Effect" />
-  </a>
-</p>
-
-###
-
 <div align="center">
+  <h2>Hi 👋😎! My name is Mohammad Hossein Baghestani.</h2>
+
+  <p align="center">
+    <a href="https://github.com/M-Baghestani">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Developer;Problem+Solver" alt="Typing Effect" />
+    </a>
+  </p>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Baghestani&theme=dracula&area=true" width="800" alt="Mohammad Hossein's Contribution Graph" />
 </div>
 
-###
+<br />
 
 <h3 align="center">🛠️ Languages & Technologies</h3>
 
@@ -31,7 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 & CSS3" />
 </div>
 
-###
+<br />
 
 <h3 align="center">🌐 Connect with Me</h3>
 
@@ -45,16 +41,10 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
+<br />
 
 <div align="center">
   <img src="https://hit.yhype.me/github/profile?user_id=M-Baghestani" alt="Profile Views" />
-  
   <br /><br />
-  
   <img src="https://raw.githubusercontent.com/M-Baghestani/M-Baghestani/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
