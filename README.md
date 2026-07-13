@@ -5,9 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Baghestani&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Baghestani&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Baghestani&theme=dracula&area=true" width="800" alt="activity graph" />
 </div>
 
 ###
