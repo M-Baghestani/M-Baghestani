@@ -5,20 +5,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Baghestani&theme=dracula&area=true" width="800" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Baghestani&theme=dracula&area=true" width="800" alt="Mohammad Hossein's Contribution Graph" />
 </div>
 
 ###
 
-<h3 align="center">💻 زبان‌ها و تکنولوژی‌هایی که کار کردم</h3>
+<h3 align="center">🛠️ Languages & Technologies</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <br />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -26,6 +26,8 @@
 </div>
 
 ###
+
+<h3 align="center">🌐 Connect with Me</h3>
 
 <div align="center">
   <a href="https://instagram.com/mh_b2080" target="_blank">
@@ -41,6 +43,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/M-Baghestani/M-Baghestani/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/M-Baghestani/M-Baghestani/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
